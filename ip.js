@@ -1,2 +1,1 @@
-window.state={ip:;; Warning: Message parser reports malformed message packet.
-10 8 /0o1ZaBUzdY=};
+window.state={ip:156.205.30.74};
