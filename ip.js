@@ -1,1 +1,1 @@
-window.state={ip:;; connection timed out; no servers could be reached};
+window.state={ip:41.43.55.185};
