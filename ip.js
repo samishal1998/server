@@ -1,1 +1,1 @@
-window.state={ip:156.205.104.11};
+window.state={ip:};
